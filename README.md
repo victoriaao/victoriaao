@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Victoria
-- 👀 I’m interested in data
-- 🌱 I’m currently learning data engineering
-- 💞️ I’m looking to collaborate on data related fields
+Hi there 👋, I’m Victoria
+- 🌱 I'm currently a data analyst 
+- ✨ I'm currently learning data engineering 
 - 📫 How to reach me >olorunfemiva@gmail.com 
 
 <!---
