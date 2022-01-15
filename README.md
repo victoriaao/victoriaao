@@ -1,6 +1,6 @@
 Hi there 👋, I’m Victoria
 - 🌱 I'm currently a data analyst 
-- ✨ I'm currently learning data engineering 
+- ✨ Exploring data engineering 
 - 📫 How to reach me >olorunfemiva@gmail.com 
 
 <!---
