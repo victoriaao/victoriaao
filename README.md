@@ -3,7 +3,6 @@ Hi there 👋, I’m Victoria
 - 🚀 Exploring Analytics Engineering and building better data pipelines.
 - 🤝 Open to collaboration on data-driven projects, dashboards, and workflows.
 - 📬 Reach me at: olorunfemiva@gmail.com
-- I share my thoughts here https://medium.com/@mythoughtsanddata
 - 📊 Always learning, always growing.
 <!---
 victoriaao/victoriaao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
