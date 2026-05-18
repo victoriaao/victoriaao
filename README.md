@@ -1,5 +1,5 @@
 Hi there 👋, I’m Victoria
-- 🎯 Data Analyst passionate about transforming data into impactful insights.
+- 🎯 Data & Analytics Engineer passionate about transforming data into impactful insights.
 - 🚀 Exploring Analytics Engineering and building better data pipelines.
 - 🤝 Open to collaboration on data-driven projects, dashboards, and workflows.
 - 📬 Reach me at: olorunfemiva@gmail.com
